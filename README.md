@@ -1,3 +1,1 @@
-# Make A ToDo app project
-
-make a ToDo project using html,js
+# ToDo app using html,js
